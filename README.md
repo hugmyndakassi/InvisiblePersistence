@@ -25,23 +25,6 @@
 `ethereum mev bot` • `bnb chain mev bot` • `bsc mev bot` • `multi-chain mev bot` • `ethereum arbitrage bot` • `bnb arbitrage bot` • `pancakeswap arbitrage` • `uniswap arbitrage` • `flashloan bot` • `dex arbitrage bot` • `mev bot github` • `ethereum bot open source` • `bsc bot open source` • `automated trading ethereum` • `automated trading bnb` • `mev flashloan` • `eth arbitrage bot` • `bnb arbitrage bot`
 
 ---
-
-**👉 [Contact me on Telegram](https://t.me/richbeta312)**
-
-### Trading VPS
-**This VPS service delivers ultra-low latency and reliable performance specifically optimized for MEV trading bots. Benefit from faster execution speeds, dedicated resources, and 24/7 uptime to maximize your trading advantage.**
-
-Key Benefits
-- ✅ **Low latency connections near major exchange data centers**
-- ✅ **Dedicated CPU, RAM, and NVMe SSD for optimal speed**
-- ✅ **24/7 uptime for uninterrupted trading** 
-- ✅ **Enhanced security and stable network**
-
-Boost your MEV bot’s responsiveness and gain a competitive edge with our specialized VPS.
-
-Learn more and get started at: https://tradoxvps.com
-
-
 ### 💎 Why This Multi-Chain MEV Bot?
 
 **Zero Capital Required** • **Atomic Execution** • **Multi-Chain Support** • **Multi-DEX Support** • **Production Ready** • **Flashloan Technology** • **Open Source MEV Bot** • **Ethereum & BNB Chain**
@@ -593,9 +576,6 @@ pm2 start src/index.js --name mev-bot
 pm2 save
 pm2 startup
 ```
-
-**👉 [Contact me on Telegram for MEV Bot Support](https://t.me/richbeta312)**
-
 **✅ Congratulations! Your multi-chain MEV bot is now running and searching for profitable arbitrage opportunities!**
 
 > 📖 **For detailed multi-chain setup instructions, see [MULTI_CHAIN_SETUP.md](MULTI_CHAIN_SETUP.md)**
@@ -1248,9 +1228,6 @@ This software is provided for **educational and research purposes** regarding ME
 This repository ranks for: **multi-chain mev bot**, **ethereum mev bot**, **bnb chain mev bot**, **bsc mev bot**, **mev bot ethereum**, **mev bot bnb chain**, **ethereum arbitrage bot**, **bnb arbitrage bot**, **pancakeswap arbitrage bot**, **flashloan bot ethereum**, **flashloan bot bnb**, **uniswap arbitrage bot**, **dex arbitrage bot**, **ethereum trading bot github**, **bnb chain trading bot github**, **open source mev bot**, **best mev bot**, **free mev bot**, **ethereum bot github**, **bnb chain bot github**, **mev bot tutorial**, **arbitrage bot ethereum**, **arbitrage bot bnb chain**, **ethereum flashloan arbitrage**, **bnb chain flashloan arbitrage**
 
 ---
-
-**👉 [Contact me on Telegram for MEV Bot Questions](https://t.me/richbeta312)**
-
 <div align="center">
 
 ### 🌟 Star This Ethereum MEV Bot Repository
